@@ -1,3 +1,11 @@
+# Joshua 的备注 #
+感谢 分享！十分有用！
+
+## 一些实用的配置方法 ##
+
+http://www.hangge.com/blog/cache/detail_1149.html
+
+
 # Atom飞行手册翻译 #
 
 翻译自 [Atom Flight Manual](https://atom.io/docs)。
